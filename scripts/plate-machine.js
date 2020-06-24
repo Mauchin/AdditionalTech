@@ -32,8 +32,8 @@ liquid-name is .json file name
 
 {
   _output:[
-  [[["AdditionalTech"+"-"+"copper-plate",1]],null,null],
-  [[["AdditionalTech"+"-"+"copper-plate",1]],null,null]
+  [[["additionaltech"+"-"+"copper-plate",1]],null,null],
+  [[["additionaltech"+"-"+"copper-plate",1]],null,null]
   ],
   _input:[
   [[["copper",1]],null,null],
