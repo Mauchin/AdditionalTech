@@ -33,13 +33,15 @@ liquid-name is .json file name
 {
   _output:[
   [[["additionaltech"+"-"+"copper-plate",1]],null,null],
-  [[["additionaltech"+"-"+"lead-plate",1]],null,null]
+  [[["additionaltech"+"-"+"lead-plate",1]],null,null],
+  [[["additionaltech"+"-"+"iron-plate",1]],null,null]
   ],
   _input:[
   [[["copper",1]],null,null],
-  [[["lead",1]],null,null]
+  [[["lead",1]],null,null],
+  [[["additionaltech"+"-"+"iron",1]],null,null]
   ],
-  craftTimes:[60,60],
+  craftTimes:[60,60,60],
   output:[],
   input:[],
   itemList:[],
